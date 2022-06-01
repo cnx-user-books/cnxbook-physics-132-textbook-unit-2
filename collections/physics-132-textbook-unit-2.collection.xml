@@ -1,0 +1,155 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col25663</md:content-id>
+  <md:title>Physics 132 Textbook Unit 2</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>717603d2-c36a-4d7d-a730-10a6099a60f5</md:uuid>
+<md:slug>physics-132-textbook-unit-2</md:slug>
+</metadata>
+
+  <col:content>
+    
+      
+        
+      <col:subcollection>
+        <md:title>Introduction</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m68319"/>
+        
+      
+    
+    
+      <col:module document="m68383"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Introduction to Geometric Optics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m67799"/>
+        
+      
+    
+    
+      <col:module document="m67801"/>
+        
+      
+    
+    
+      <col:module document="m68326"/>
+        
+      
+    
+    
+      <col:module document="m67800"/>
+        
+      
+    
+    
+      <col:module document="m68331"/>
+        
+      
+    
+    
+      <col:module document="m68332"/>
+        
+      
+    
+    
+      <col:module document="m67802"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Applications of Geometric Optics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m68370"/>
+        
+      
+    
+    
+      <col:module document="m68371"/>
+        
+      
+    
+    
+      <col:module document="m68374"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>More Applications of Geometric Optics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m68320"/>
+        
+      
+    
+    
+      <col:module document="m68322"/>
+        
+      
+    
+    
+      <col:module document="m68323"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+  </col:content>
+</col:collection>

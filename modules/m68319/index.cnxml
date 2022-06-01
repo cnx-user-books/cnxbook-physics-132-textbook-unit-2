@@ -1,0 +1,33 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Unit 2 on a Page</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68319</md:content-id>
+  <md:title>Unit 2 on a Page</md:title>
+  <md:abstract/>
+  <md:uuid>e62cc148-18e7-4bd4-b469-770d4dc2cca5</md:uuid>
+</metadata>
+
+<content><exercise id="eip-516"><label/><title><media id="inote232i" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inote232p"><para id="inote232pp">This Unit is very heavy on vocabulary, there is a set on flashcards on <link url="https://quizlet.com/264158998/optics-terminology-flash-cards/" window="new"> Quizlet </link>to help you.</para></problem></exercise><para id="fs-idm383037616"><list xmlns:m="http://www.w3.org/1998/Math/MathML" id="fs-idm1383158864"><title>Terminology:</title><item id="import-auto-idm1156139888">An optical element is a lens or mirror</item>
+    <item id="import-auto-idm1428503312">An image is the apparent reproduction of an object, formed by an optical element (or collection of them) reflecting and/or refracting light</item>
+    <item id="import-auto-idm219404288">Images can either be erect (same orientation as object) or inverted (upside-down with respect to object)</item>
+    <item id="import-auto-idm1144727360">The optical axis is a line that passes through the optical element perpendicular to it</item>
+    <item id="import-auto-idm1282335440">The point where the optical axis meets the optical element is called the vertex</item>
+    <item id="import-auto-idm1302898032">The center of a lens is where the lens is thickest</item>
+    <item id="import-auto-idm229763712">The center of a mirror is the center of curvature</item>
+    <item id="import-auto-idm1157251920">Image and object distances are measured along the optical axis</item>
+    <item id="import-auto-idm1166282944">Signs are relative to the path of the light</item>
+    <item id="import-auto-idm1167935344">If the object is on the same side as the incoming light, then <m:math display="block"><m:semantics><m:mrow><m:mi>o</m:mi><m:mo stretchy="false">&gt;</m:mo><m:mn>0</m:mn></m:mrow><m:annotation encoding="StarMath 5.0">o &gt; 0</m:annotation></m:semantics></m:math>, otherwise <m:math display="block"><m:semantics><m:mrow><m:mi>o</m:mi><m:mo stretchy="false">&lt;</m:mo><m:mn>0</m:mn></m:mrow><m:annotation encoding="StarMath 5.0">o &lt; 0</m:annotation></m:semantics></m:math></item>
+    <item id="import-auto-idm1157419264">If the image is on the same side as the outgoing light, then <m:math display="block"><m:semantics><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">&gt;</m:mo><m:mn>0</m:mn></m:mrow><m:annotation encoding="StarMath 5.0">i &gt; 0</m:annotation></m:semantics></m:math>, otherwise <m:math display="block"><m:semantics><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">&lt;</m:mo><m:mn>0</m:mn></m:mrow><m:annotation encoding="StarMath 5.0">i &lt; 0</m:annotation></m:semantics></m:math></item>
+    <item id="import-auto-idm241545968">For a lens, the incoming and outgoing sides are different (light goes through a lens)</item>
+    <item id="import-auto-idm198460864">For a mirror, the incoming and outgoing sides are the same (light bounces off a mirror)</item></list></para>
+    <para id="import-auto-idm1103004736"><title>Principles for Unit 2</title>This unit in particular has a lot of terminology. To help you stay focused, the principles (where we will begin analyzing situations) are: 
+<list id="fs-idm1106712272"><title>How light interacts with surfaces and materials</title><item>Law of reflection  which is best understood in the particle picture</item>
+    <item id="import-auto-idm191146480">Law of refraction  which is best understood in the wave picture</item>
+    <item id="import-auto-idm1284510496">Light slows when it enters a medium, but the energy of a photon cannot change. So the wavelength must! </item></list>
+<list id="eip-idm478130432"><title>Optical elements and ray diagrams</title><item>The position of the image formed by an optical system is located at 
+</item>
+<item>For ray diagrams: one ray in parallel and out through focal point, one ray in through focal point and out parallel, one ray using the center of the system
+</item>
+<item>And point where photons seem to emerge can be used as an object. Such a point could be a real source of photons (an object) or an image from another optical element
+</item></list></para></content>
+</document>

@@ -1,0 +1,78 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Introduction to Lenses</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68371</md:content-id>
+  <md:title>Introduction to Lenses</md:title>
+  <md:abstract/>
+  <md:uuid>a0b95695-b778-4eec-8cd8-346dda922f26</md:uuid>
+</metadata>
+
+<content>
+    <exercise id="eip-837"><label/><title><media id="inote232i" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inote232p"><para id="inote232pp">This section is also available as a video on the <link url="https://www.youtube.com/channel/UCUMejMY1La0t8qi-jwFTyTw" window="new"> UMass Physics 13X YouTube page. </link> The link can be found <link url="https://youtu.be/72lc-kwHQa8" window="new"> here. </link></para>
+<para id="eip-idm280154592">
+<list id="eip-idm197619952"><title>By the end of this section you should be able to:</title><item>Describe what a lens is and describe the two kinds of lenses, converging and diverging.</item>
+<item>Describe what each type does and how these two types of lenses are different.</item>
+<item>Define focal length and focal point for any lens.</item>
+<item>Describe the idea behind the thin lens approximation.</item></list></para></problem></exercise><para id="import-auto-idm663628944">What is a lens? </para>
+    <para id="import-auto-idm473944560">A lens is a piece of transparent material designed to take incoming parallel photons and can bend them to a point which we call a converging lens, pictured below, where you have incoming parallel photons from the right passing into the lens and converging to a point on the left. </para>
+    <figure id="import-auto-idm474191440">
+      <media id="import-auto-idm663110704" alt="">
+        <image mime-type="image/png" src="../../media/Picture 4-fb71.png" height="208" width="421"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm435537408">A common application that you might have experienced with this is taking a regular magnifying glass and focusing the sun's light to a point. The incoming light from the Sun is effectively parallel and the magnifying glass focuses it to a point. </para>
+    <para id="import-auto-idm432515728">The other thing a lens can do is spread incoming parallel photons as if they came from a point. This is known as a diverging lens. When the light passes through the lens, the light spreads out and from the left side it appears that the light originated at this point.</para>
+    <figure id="import-auto-idm468302576">
+      <media id="import-auto-idm538933600" alt="">
+        <image mime-type="image/png" src="../../media/Picture 3-c058.png" height="212" width="433"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm524358464">A common application of diverging lenses is on your face if you happen to be nearsighted, the glasses you're wearing if you're nearsighted are a diverging lens.</para>
+    <para id="import-auto-idm635725232">Let's talk a little bit about the properties of converging versus diverging lenses. Converging lenses are always thicker at the center than at the edges. On the flip side, diverging lenses are thicker at the edges than they are in the middle.</para>
+    <figure id="import-auto-idm470507776"><media id="import-auto-idm496178640" alt="">
+        <image mime-type="image/png" src="../../media/Picture 2-15de.png" height="193" width="524"/>
+      </media>
+    <caption>Credit: George Makepeace</caption></figure><exercise id="eip-664"><label/><title><media id="inote2232i" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inote2232p"><para id="inote2232pp">You don't need to know the names of these particular shapes you just need to know that converging lenses are thicker at the middle and diverging lenses are thicker at the edges.</para></problem></exercise><para id="import-auto-idm465804352">Let's move on to probably the most important property of lens, the focal length and focal points. Here are our two lenses, the converging lens on the left and the diverging lens on the right, in both cases you can see the light coming from the right passing through the lens on its way to the left. </para><figure id="import-auto-idm512167552">
+      <media id="import-auto-idm206770112" alt="">
+        <image mime-type="image/png" src="../../media/Picture 5-8649.png" height="193" width="624"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm498398800">The focal point is defined as the point at which the parallel photons either converge or appear to. Meanwhile the focal length is the distance from the center of the lens to that point, since the focal length is a distance the unit of focal length is meters. </para>
+    <para id="import-auto-idm432356896">For the converging lens, the point where the photons appear to intersect is the focal point. Meanwhile for the diverging lens we trace the rays back through the lens and they appear to come from this point behind the lens, this is the focal point of a diverging lens. </para>
+    <figure id="import-auto-idm447241680">
+      <media id="import-auto-idm199167696" alt="">
+        <image mime-type="image/png" src="../../media/Picture 7-f719.png" height="190" width="624"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm204269296">We always measure the focal length from the center of the lens to the focal point, so you can see it here on the left for the converging lens and here on the right for the diverging lens. Every lens has only one focal length, but two focal points with one on each side. </para>
+    <para id="import-auto-idm496493728">Below we can see the full set up for converging lens. In this case we've got the light coming in from the left and moving towards the right. We can see the two different focal points, one on each side of the lens, each a focal length from the center of the lens and these two focal lengths are the same. </para>
+    <figure id="import-auto-idm525177312">
+      <media id="import-auto-idm448635168" alt="">
+        <image mime-type="image/png" src="../../media/Picture 8-4da0.png" height="250" width="380"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm425654912">Similarly, for a diverging lens we have two focal points one on each side of the lens, each the focal length from the center. The convention is that focal lengths for converging lenses are positive while diverging lenses have negative focal lengths. </para>
+    <figure id="import-auto-idm494488016">
+      <media id="import-auto-idm493498080" alt="">
+        <image mime-type="image/png" src="../../media/Picture 10.png" height="340" width="335"/>
+      </media>
+    </figure>
+    <exercise id="eip-680"><label/><title><media id="inote2332i" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inote2332p"><para id="inote2332pp">In addition to a lot of vocabulary optics also has a lot of sign conventions that I am expecting you to learn from this prep, there is a set on flashcards on <link url="https://quizlet.com/264158998/optics-terminology-flash-cards/" window="new"> Quizlet </link>to help you.</para></problem></exercise><para id="import-auto-idm248190528">Finally let's move on to the thin lens approximation. In a real lens, light will bend at each surface, it will bend as it goes from the air to glass, or whatever material the lens is made of, and then it will bend again by Snell's law when the light moves from the glass back into the air. </para>
+    <figure id="import-auto-idm415860320">
+      <media id="import-auto-idm467936400" alt="">
+        <image mime-type="image/png" src="../../media/Picture 12.png" height="208" width="396"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm418687232">However, we will assume that the lens is very thin. What do we mean by thin? We mean that the thickness of the lens is very small relative to the focal length. Under this approximation it's essentially as if all the light bending happens at the center. Now this is not actually what happens, remember the light does bend at each interface, air to glass and glass to air, however, if the lens is very thin these two interfaces are so close together and so close to the center of the lens that we can ignore it.</para>
+    <para id="import-auto-idm408089264">
+      <figure id="import-auto-idm437067872">
+        <media id="import-auto-idm429503216" alt="">
+          <image mime-type="image/png" src="../../media/Picture 11.png" height="208" width="400"/>
+        </media>
+      </figure>
+    </para>
+    <exercise id="eip-606"><label/><title><media id="inote2432i" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inote2432p"><para id="inote2432pp"><list id="eip-idm407598576"><title>In Summary:</title><item>A lens is a transparent material that either bends parallel light towards a focal point in the case of a converging lens or bends the light away in such a way that it appears to originate from a point in the case of a diverging lens.</item>
+<item>Each lens has two focal points one on each side of the lens because we can of course send the light through the lens either from the left or from the right, and we've seen examples of light traveling both ways.</item>
+<item>Focal lengths for converging lenses are positive and focal lengths for diverging lenses are by convention negative.</item>
+<item>In reality, light bends at each surface of the lens, however, if the lens is thin relative to the focal length then we can treat all of the bending as if it is happening at the center of the lens, this is known as the thin lens approximation.</item></list></para></problem></exercise></content>
+</document>

@@ -1,0 +1,17 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Law of Reflection in Terms of the Particle Picture of Light</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68326</md:content-id>
+  <md:title>Law of Reflection in Terms of the Particle Picture of Light</md:title>
+  <md:abstract/>
+  <md:uuid>495eda29-ffd1-4915-96fd-7ce8d9ac4bb3</md:uuid>
+</metadata>
+
+<content>
+    <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-idm1055465872">We're going to begin with the basics of reflection. The Law of Reflection is simply,<equation id="eip-idm542857840"> <m:math display="block"><m:semantics><m:mrow><m:msub><m:mi>θ</m:mi><m:mi>i</m:mi></m:msub><m:mo stretchy="false">=</m:mo><m:msub><m:mi>θ</m:mi><m:mi>f</m:mi></m:msub></m:mrow><m:annotation encoding="StarMath 5.0">{θ} rsub {i} = {θ} rsub {f}</m:annotation></m:semantics></m:math></equation>, the incident angle equals the final angle. Reflection makes the most sense in terms of the particle picture of life. </para><para id="import-auto-idm1029086336">It's easiest to see if we just imagine light, a photon, as a ball. When a ball is bounced, the incident angle and the final angle are the same before and after it bounces. </para>
+    <para id="import-auto-idm1008469824"><figure id="eip-idm329649184"><media id="optics" alt="reflection">
+    <image mime-type="image/jpeg" src="../../media/Picture 1.jpg"/>
+  </media>
+<caption>The Law of Reflection (Credit: Wikipedia, C M Vidyashree)</caption></figure></para><para id="import-auto-idm359368224">You can see that relative to the normal, which is how you should always measure your angles, the incident angle and the final angle are the same.  </para>
+  </content>
+</document>

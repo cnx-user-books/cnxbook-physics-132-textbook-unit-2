@@ -1,0 +1,35 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Why Light Slows in Materials</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68331</md:content-id>
+  <md:title>Why Light Slows in Materials</md:title>
+  <md:abstract/>
+  <md:uuid>57218352-bbdb-4ad7-a43a-44fb0c58e0aa</md:uuid>
+</metadata>
+
+<content>
+    <exercise xmlns:m="http://www.w3.org/1998/Math/MathML" id="eip-106"><label/><title><media id="inote232i" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inote232p"><para id="inote232pp">This section is also available as a video on the <link url="https://www.youtube.com/channel/UCUMejMY1La0t8qi-jwFTyTw" window="new"> UMass Physics 13X YouTube page. </link> The link can be found <link url="https://youtu.be/2bvoG_RbkMY" window="new"> here. </link></para><para id="eip-idm1106017376">What should you know? That light slows down as it enters a medium, we characterized this by the index of refraction,  <m:math display="block"><m:semantics><m:mfrac><m:mi>C</m:mi><m:mi>V</m:mi></m:mfrac><m:annotation encoding="StarMath 5.0">{C} over {V}</m:annotation></m:semantics></m:math> , and as a consequence, light will bend. We're going talk about interpreting this using your Unit 1 materials and we're going extend this idea to electrons.</para>
+<para id="eip-idm1145496112">Most of you probably know physics is the cumulative subject, you can't forget Unit 1 just because we're coming into Unit 2. </para></problem></exercise><para id="import-auto-idm329224816">In Unit 1, we said light in a vacuum will travel at the speed of light, <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mrow><m:mn>3</m:mn><m:mi>×</m:mi><m:msup><m:mn>10</m:mn><m:mn>8</m:mn></m:msup></m:mrow><m:annotation encoding="StarMath 5.0">3× {10} ^ {8}</m:annotation></m:semantics></m:math> meters per second, but we've just said that light in a material slows down. How does that work? Those things don't seem to make sense with each other. </para>
+    <para id="import-auto-idm1129156784">Here's a material a nice crystal lattice and I'm going to bring in a single photon of light. </para>
+    <figure id="import-auto-idm1173371520"><media id="import-auto-idm1194581328" alt="">
+        <image mime-type="image/png" src="../../media/Picture 1-e790.png" height="200" width="280"/>
+      </media>
+    </figure><para id="import-auto-idm1196674176">All right, so the single photon it comes in, it interacts with this first atom.</para>
+    <figure id="import-auto-idm349465072"><media id="import-auto-idm1365578832" alt="">
+        <image mime-type="image/png" src="../../media/Picture 3-d67f.png" height="220" width="280"/>
+      </media>
+    </figure><para id="import-auto-idm298904928">Maybe excites an electron or flips a spin or something. It interacts with this electron it this atom in some way. </para>
+    <figure id="import-auto-idm337411776"><media id="import-auto-idm1159580720" alt="">
+        <image mime-type="image/png" src="../../media/Picture 4-bff3.png" height="200" width="280"/>
+      </media>
+    </figure><para id="import-auto-idm1099326992">Say it excites an electron, that electron gets excited, it hangs out for a second and then falls back down and emits a photon with the exact same energy in the exact same direction. </para>
+    <figure id="import-auto-idm342668480"><media id="import-auto-idm356487744" alt="">
+        <image mime-type="image/png" src="../../media/Picture 5-2205.png" height="200" width="280"/>
+      </media>
+    </figure><figure id="import-auto-idm346673264"><media id="import-auto-idm356322624" alt="">
+        <image mime-type="image/png" src="../../media/Picture 6.png" height="200" width="280"/>
+      </media>
+    </figure><para id="import-auto-idm300960128">We know the energy has to be the same, because of conservation of energy, the energy that went in has to come back out, and we also can say that the direction has to be the same. There's another law, conservation of momentum, that will require that the directions be the same. So, photon comes in, interacts its remitted, interacts, so on and so forth. That's what's going on at the microscopic level. </para>
+    <para id="import-auto-idm1225887696">In between, from one atom to the next, these photons are traveling at the speed of light, this photon, from one atom to the next, is traveling at this <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mrow><m:mn>3</m:mn><m:mi>×</m:mi><m:msup><m:mn>10</m:mn><m:mn>8</m:mn></m:msup></m:mrow><m:annotation encoding="StarMath 5.0">3× {10} ^ {8}</m:annotation></m:semantics></m:math>. But these interactions take some amount of time its excite the electron up and then it falls back down. On the average, the light is traveling more slowly because these interactions take some amount of time. We said light travels at <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mrow><m:mn>3</m:mn><m:mi>×</m:mi><m:msup><m:mn>10</m:mn><m:mn>8</m:mn></m:msup></m:mrow><m:annotation encoding="StarMath 5.0">3× {10} ^ {8}</m:annotation></m:semantics></m:math>, and it does, but in a material, it’s having these interactions that take some amount of time that causes it to slow down on the average. That's what's going on in terms of a particle picture.</para>
+  </content>
+</document>

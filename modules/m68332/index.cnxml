@@ -1,0 +1,20 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Why Light Bends</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68332</md:content-id>
+  <md:title>Why Light Bends</md:title>
+  <md:abstract/>
+  <md:uuid>3cb6b178-c322-4fe7-852d-3d154c044df5</md:uuid>
+</metadata>
+
+<content>
+    <exercise id="eip-803"><label/><title><media id="inote232i" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inote232p"><para id="inote232pp">This section is also available as a video on the <link url="https://www.youtube.com/channel/UCUMejMY1La0t8qi-jwFTyTw" window="new"> UMass Physics 13X YouTube page. </link> The link can be found <link url="https://youtu.be/NRKZXLfLIlE" window="new"> here. </link></para></problem></exercise><para id="import-auto-idm1043146704">Let's talk about why light bends. This is what makes starting with wave particle duality so useful. To understand why light slows, a particle picture is really useful, and to understand why light bends, a wave picture is very useful. </para>
+    <exercise id="eip-413"><label/><title><media id="inote22i" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inote22p"><para id="inote23pp">In this section we are thinking about light as a wave!</para></problem></exercise><para id="import-auto-idm360036720">The wave is coming in from the upper left and the left side of the wave will hit the interface, in this case, water, first and slow down, while the right side of the wave, will keep going. That's what makes it bend, different parts of the wave hit it at different times. </para>
+    <figure id="import-auto-idm381535792"><media id="import-auto-idm1180831296" alt="">
+        <image mime-type="image/png" src="../../media/Picture 1-afcf.png" height="200" width="200"/>
+      </media>
+    <caption>A wave of light being bending across water. (Credit: Jimi Oke)</caption></figure><para id="import-auto-idm1064212384">Refraction really does work well when you can jump back and forth between a wave picture and a particle picture of light. </para>
+    <para id="import-auto-idm360188080">Just like a light wave, if I can get the electron to slow down I can get it to bend towards the normal. If I can get an electron wave to slow I can make it bend, if I can make it bend, I can build the lens, if I can build the lens I can build a microscope. This is why electron microscopes work, because I can bend electrons by speeding them up or slowing them down. </para>
+    <para id="import-auto-idm1072151280">If the wave comes in straight perpendicular, does it bend? The bending came from the fact that different parts of the wave slowed down at different times, if we come straight at it, that doesn't happen and so they all slow down together, and you don't get a bend, it will go straight. </para>
+  </content>
+</document>
